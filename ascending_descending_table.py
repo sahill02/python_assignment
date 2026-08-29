@@ -1,5 +1,5 @@
 num = int(input("Enter the number which table you want to print "))
-choice = int(input("Do you want to print table ascending or descending order\nPress 0 for Desceding\nPress any Number for ascending"))
+choice = int(input("Do you want to print table ascending or descending order\nPress 0 for Desceding\nPress 1 for ascending"))
 
 print("your choice is", choice)
 
